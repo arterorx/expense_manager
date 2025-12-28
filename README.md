@@ -37,10 +37,10 @@ This project was created as part of a Flutter practice course and is suitable fo
 ## 📸 Screenshots
 
 <p float="left">
-  <img src="lib/assets/screenshots/1.png" width="150" />
-  <img src="lib/assets/screenshots/2.png" width="150" />
-  <img src="lib/assets/screenshots/3.png" width="150" />
-  <img src="lib/assets/screenshots/4.png" width="150" />
+  <img src="lib/assets/screenshots/1.png" width="200" />
+  <img src="lib/assets/screenshots/2.png" width="200" />
+  <img src="lib/assets/screenshots/3.png" width="200" />
+  <img src="lib/assets/screenshots/4.png" width="200" />
 </p>
 
 ---
