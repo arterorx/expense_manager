@@ -67,8 +67,8 @@ lib/
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/arterorx/expense-manager-flutter.git
-   cd expense-manager-flutter
+   git clone https://github.com/arterorx/expense-manager.git
+   cd expense-manager
    ```
 
 2. **Install dependencies**
